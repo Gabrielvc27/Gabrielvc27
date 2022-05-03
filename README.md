@@ -1,4 +1,4 @@
-- 👋 Seja bem vindo ao meu perfil.
+- 👋 Seja bem-vindo ao meu perfil.
 - 👀 Estou sempre a disposição.
 - 🌱 Aprendendo a cada dia que passa.
 - 💞️ Tenho uma ótima amizade com os meus colegas.
