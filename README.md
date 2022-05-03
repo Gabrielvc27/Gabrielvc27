@@ -2,7 +2,7 @@
 - 👀 Estou sempre a disposição.
 - 🌱 Aprendendo a cada dia que passa.
 - 💞️ Tenho uma ótima amizade com os meus colegas.
-- 📫 Me procure em: @gabriel.costa113.
+- 📫 Me encontre em: @gabriel.costa113.
 
 <!---
 Gabrielvc27/Gabrielvc27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
