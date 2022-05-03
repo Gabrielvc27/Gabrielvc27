@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gabrielvc27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Seja bem vindo ao meu perfil.
+- 👀 Estou sempre a disposição.
+- 🌱 Aprendendo a cada dia que passa.
+- 💞️ Tenho uma ótima amizade com os meus colegas.
+- 📫 Me encontre em: @gabriel.costa113.
 
 <!---
 Gabrielvc27/Gabrielvc27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
